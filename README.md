@@ -13,10 +13,10 @@
 * Thank you
 * References
 ## Provide insights and recommendations to address these challenges:
-** Low Accessories and clothing sales.
-** Decrease in sales in the last year (2013).
-** New customers not repeating their orders.
-** Retaining and Nurturing Old Customers.
-** Optimizing Reseller Sales.
-** Promotions conflicts and how to take advantages from it.
-** Understanding Customer Segmentation to target them.
+* Low Accessories and clothing sales.
+* Decrease in sales in the last year (2013).
+* New customers not repeating their orders.
+* Retaining and Nurturing Old Customers.
+* Optimizing Reseller Sales.
+* Promotions conflicts and how to take advantages from it.
+* Understanding Customer Segmentation to target them.
