@@ -20,3 +20,7 @@
 * Optimizing Reseller Sales.
 * Promotions conflicts and how to take advantages from it.
 * Understanding Customer Segmentation to target them.
+## Images
+![image](https://github.com/khaledIskandarani1/Regional-sales/assets/66411194/1a841525-c030-4340-b760-75e902404293)
+
+![image](https://github.com/khaledIskandarani1/Regional-sales/assets/66411194/aafb17ce-0a84-4d95-aeb1-938627649c97)
